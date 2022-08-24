@@ -1,3 +1,5 @@
+// Commit - 2
+
 // Calculo de imposto sobre o salario
 funcao impSalario(salario: real) : real
 var
